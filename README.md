@@ -21,3 +21,11 @@ A secure, zero-footprint messaging application built for the 2026 web. This appl
 1. **Clone the repository:**
    ```bash
    git clone <your-repo-link>
+2. Launch the Signaling Server:
+   cd SERVER
+   npm install
+   node index.js
+3. Launch the React Client:
+   cd client
+   npm install
+   npm start
